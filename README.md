@@ -1,3 +1,3 @@
 # STAG
 
-This is the last assignment for the Java module that I undertook during my Masters 
+This is a text adventure program that I completed during my Java module 
